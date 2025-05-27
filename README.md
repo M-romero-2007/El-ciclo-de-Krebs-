@@ -107,8 +107,9 @@
 </div>
 
 <div class="ciclo-krebs">
-    <img src="ciclo_de_krebs.jpg" alt="Diagrama del Ciclo de Krebs">
-</div>
+    <img src="ciclo_de_krebs.jpg" alt=![17483514245637913140904031343476](https://github.com/user-attachments/assets/ded0d9ec-1d62-41b6-90cc-b74b74bcb8de)
+
+
 
 <div class="example">
     <h3>Ejemplo de la Condensación</h3>
@@ -134,6 +135,8 @@
     <h2>Conclusión</h2>
     <p>El ciclo de Krebs es un proceso metabólico vital que permite a las células producir energía de manera eficiente. Su comprensión es fundamental para estudiar el metabolismo celular y las enfermedades metabólicas.</p>
 </div>
+alt=![17483516083217857827557556885220](https://github.com/user-attachments/assets/48e8121b-b7f3-46e9-a893-7231413d48b3)
+
 
 <footer>
     <p>&copy; 2023 María José García Romero. Todos los derechos reservados.</p>
